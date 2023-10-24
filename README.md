@@ -7,7 +7,7 @@ This Project has been created using [Hardhat x BuildBear](https://github.com/Bui
 > 1️⃣ Clone/fork Buildbear Tutorials:
 
 ```bash
-git clone https://github.com/BuildBearLabs/Tutorials.git
+git clone https://github.com/BuildBearLabs/ERC4626.git
 ```
 
 > 2️⃣ Install dependencies 
